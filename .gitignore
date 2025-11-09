@@ -1,4 +1,4 @@
-﻿.quarto/
+.quarto/
 _site/
 docs/
 # R / RStudio
@@ -12,3 +12,6 @@ docs/
 # OS cruft
 .DS_Store
 Thumbs.db
+
+/.quarto/
+**/*.quarto_ipynb
