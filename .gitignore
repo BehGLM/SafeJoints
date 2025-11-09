@@ -1,0 +1,14 @@
+﻿.quarto/
+_site/
+docs/
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+# Python venvs
+.venv/
+# OS cruft
+.DS_Store
+Thumbs.db

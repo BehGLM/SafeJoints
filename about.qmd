@@ -1,0 +1,103 @@
+---
+title: "About the Team"
+title-block-banner: "#0d6efd"
+page-layout: full
+---
+
+::::::::: team-grid
+::: team-card
+![Dr Bernard Liew](images/bernard-liew.jpg){.team-photo} **Dr Bernard Liew, University of Essex (UoE)**
+
+<p class="team-role">
+
+**Senior Lecturer in Biomechanics, School of Sport, Rehabilitation and Exercise Sciences (SRES)**
+
+</p>
+
+<p class="team-bio">
+
+Dr Bernard Liew is a Lecturer in Biomechanics in the School of Sport, Rehabilitation and Exercise Sciences (SRES). He is a physiotherapist, with close to 10 years of experience in clinical biomechanics. He has led research at the intersection of clinical biomechanics, musculoskeletal, and finite element modelling (FEM).
+
+</p>
+:::
+
+::: team-card
+![Dr Leiming Gao](images/leiming-gao.jpg){.team-photo} **Dr Leiming Gao, Nottingham Trent University (NTU)**
+
+<p class="team-role">
+
+**Senior Lecturer Biomedical Engineering, Department of Engineering**
+
+</p>
+
+<p class="team-bio">
+
+Dr Leiming Gao is a Senior Lecturer in Biomedical Engineering. Leiming’s expertise lies in Biotribology, particularly lubrication and wear modelling of hip and knee joint replacements.
+
+</p>
+:::
+
+::: team-card
+![Dr Stephen McDonnell](images/stephen-mcdonnell.jpg){.team-photo} **Dr Stephen McDonnell, University of Cambridge, Addenbrooke’s Hospital**
+
+<p class="team-role">
+
+**Associate Professor & Consultant Orthopaedic Surgeon (Hip & Knee)**
+
+</p>
+
+<p class="team-bio">
+
+Dr Stephen McDonnell is an Associate Professor, as well as Consultant Orthopaedic Surgeon specialising in the hip and knee.
+
+</p>
+:::
+
+::: team-card
+![Professor Nelson Cortes](images/nelson-cortes.jpg){.team-photo} **Professor Nelson Cortes, University of Essex (UoE)**
+
+<p class="team-role">
+
+**Professor in Biomechanics, School of Sport, Rehabilitation and Exercise Sciences (SRES)**
+
+</p>
+
+<p class="team-bio">
+
+Professor Nelson Cortes is a Professor in Biomechanics at SRES, with expertise in clinical biomechanics and osteoarthritis research. He has secured and successfully managed research grants amounting to £7m.
+
+</p>
+:::
+
+::: team-card
+![Dr Wenxing Guo](images/wenxing-guo.jpg){.team-photo} **Dr Wenxing Guo, University of Essex (UoE)**
+
+<p class="team-role">
+
+**Lecturer in Statistics & Data Science, School of Mathematics, Statistics and Actuarial Science (SMSAS)**
+
+</p>
+
+<p class="team-bio">
+
+Dr Wenxing Guo is a Lecturer in Statistics and Data Science at SMSAS, with expertise in the statistical modelling of complex and high-dimensional data.
+
+</p>
+:::
+
+::: team-card
+![Professor Stefan Maas](images/stefan-maas.jpg){.team-photo} **Professor Stefan Maas, Université du Luxembourg**
+
+<p class="team-role">
+
+**Professor, Department of Engineering (DoE)**
+
+</p>
+
+<p class="team-bio">
+
+Professor Stefan Maas is a full professor at the Department of Engineering (DoE), with expertise in musculoskeletal and finite element modelling in the areas of joint replacements and lower limb trauma. He has collaborated closely with orthopaedic and trauma surgeons at the main hospital in Luxembourg, Saarland University Hospital.
+
+</p>
+:::
+:::::::::
