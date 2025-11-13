@@ -22,6 +22,3 @@ format:
     theme: cosmo
     toc: true
     css: styles.css            # <— optional custom styles
-navbar:
-  background: dark   # enables Bootstrap's dark navbar classes
-  pinned: true    # keep the navbar fixed while scrolling
