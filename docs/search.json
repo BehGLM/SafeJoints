@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html#about-the-project",
+    "href": "index.html#about-the-project",
+    "title": "SafeJOINTs: Making High-Impact Activities Safer After Hip & Knee Replacement",
+    "section": "About the project",
+    "text": "About the project\nSafeJOINTs is a research programme to guide a safe return to high-impact activities (e.g., running, tennis) after total hip and knee replacement. In the UK, ~100,000 hip and ~108,000 knee replacements were performed in 2019; primary procedures cost the NHS close to £1 billion each annually. High-impact activities are often discouraged, yet existing studies mainly track surgical revision rates and overlook the biomechanical mechanisms, activity volume, and movement technique that drive bone/implant loading. Computational modelling is ideally suited to fill these gaps.\n\nWhy it matters\n\nProvide clinician-friendly guidance on which activities and techniques are safest after hip/knee replacement.\nDeliver open-access datasets/models to advance pre-clinical testing (beyond simplified ISO load profiles) and improve predictions of implant wear and bone loading in everyday and sport contexts.\nHelp patients and clinicians make evidence-based decisions that maximise quality of life without compromising implant longevity."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Team",
+    "section": "",
+    "text": "Dr Bernard Liew, University of Essex (UoE)\n\nSenior Lecturer in Biomechanics, School of Sport, Rehabilitation and Exercise Sciences (SRES)\n\n\nDr Bernard Liew is a Lecturer in Biomechanics in the School of Sport, Rehabilitation and Exercise Sciences (SRES). He is a physiotherapist, with close to 10 years of experience in clinical biomechanics. He has led research at the intersection of clinical biomechanics, musculoskeletal, and finite element modelling (FEM).\n\n\n\n Dr Leiming Gao, Nottingham Trent University (NTU)\n\nSenior Lecturer Biomedical Engineering, Department of Engineering\n\n\nDr Leiming Gao is a Senior Lecturer in Biomedical Engineering. Leiming’s expertise lies in Biotribology, particularly lubrication and wear modelling of hip and knee joint replacements.\n\n\n\n Dr Stephen McDonnell, University of Cambridge, Addenbrooke’s Hospital\n\nAssociate Professor & Consultant Orthopaedic Surgeon (Hip & Knee)\n\n\nDr Stephen McDonnell is an Associate Professor, as well as Consultant Orthopaedic Surgeon specialising in the hip and knee.\n\n\n\n Professor Nelson Cortes, University of Essex (UoE)\n\nProfessor in Biomechanics, School of Sport, Rehabilitation and Exercise Sciences (SRES)\n\n\nProfessor Nelson Cortes is a Professor in Biomechanics at SRES, with expertise in clinical biomechanics and osteoarthritis research. He has secured and successfully managed research grants amounting to £7m.\n\n\n\n Dr Wenxing Guo, University of Essex (UoE)\n\nLecturer in Statistics & Data Science, School of Mathematics, Statistics and Actuarial Science (SMSAS)\n\n\nDr Wenxing Guo is a Lecturer in Statistics and Data Science at SMSAS, with expertise in the statistical modelling of complex and high-dimensional data.\n\n\n\n Professor Stefan Maas, Université du Luxembourg\n\nProfessor, Department of Engineering (DoE)\n\n\nProfessor Stefan Maas is a full professor at the Department of Engineering (DoE), with expertise in musculoskeletal and finite element modelling in the areas of joint replacements and lower limb trauma. He has collaborated closely with orthopaedic and trauma surgeons at the main hospital in Luxembourg, Saarland University Hospital."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Name: Dr Bernard Liew\nEmail: BL19622@essex.ac.uk"
+  }
+]

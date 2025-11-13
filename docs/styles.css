@@ -1,0 +1,130 @@
+/* Justify running text in page content */
+main.content p,
+main.content li,
+main.content dd {
+  text-align: justify;
+  text-justify: inter-word;   /* legacy fallback */
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+/* Keep titles, nav, code, tables unaltered */
+.quarto-title-block,
+h1, h2, h3, h4, h5, h6,
+.navbar, .breadcrumb {
+  text-align: unset;
+}
+pre, code, kbd, samp, .sourceCode, .code-with-copy {
+  text-align: left !important;
+  hyphens: none !important;
+}
+table, .table, .table caption, figcaption {
+  text-align: left;
+}
+/* === Team grid & cards === */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.team-card {
+  background: #fff;
+  border: 1px solid var(--bs-border-color, #e5e7eb);
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,.04);
+}
+
+.team-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto .75rem;
+}
+
+.team-name {
+  margin: 0;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.team-role {
+  margin: 0 0 .5rem;
+  font-style: italic;
+  font-size: .95rem;
+  text-align: center;
+  color: #555;
+}
+
+.team-bio { margin: 0; hyphens: none; }
+/* css styles */
+/* === Dark, sticky navbar === */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1030;               /* above content */
+  background-color: #0b1f3a !important;   /* dark navy */
+  --bs-navbar-color: #e6edf3;
+  --bs-navbar-hover-color: #ffffff;
+  --bs-navbar-brand-color: #ffffff;
+  --bs-navbar-brand-hover-color: #ffffff;
+  --bs-navbar-active-color: #ffffff;
+  --bs-navbar-toggler-border-color: rgba(255,255,255,.25);
+}
+.navbar .nav-link { color: var(--bs-navbar-color) !important; }
+.navbar .nav-link:hover { color: var(--bs-navbar-hover-color) !important; }
+.navbar .navbar-brand { color: var(--bs-navbar-brand-color) !important; }
+.navbar .navbar-brand:hover { color: var(--bs-navbar-brand-hover-color) !important; }
+/* make the hamburger icon visible on dark bg */
+.navbar .navbar-toggler-icon { filter: invert(1) grayscale(1) brightness(2); }
+/* === Team layout & typography === */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+.team-card {
+  background: #fff;
+  border: 1px solid var(--bs-border-color, #e5e7eb);
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,.04);
+}
+.team-photo {
+  width: 120px; height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto .75rem;
+}
+/* Justify only the bios (not the bold lines) */
+.team-bio { text-align: justify; hyphens: none; margin: 0; }
+
+/* === Dark, fixed navbar (always visible) === */
+.navbar {
+  /* Quarto 'pinned: true' takes effect; this enforces your dark blue tone */
+  background-color: #0b1f3a !important;  /* dark navy above the blue title banner */
+  --bs-navbar-color: #e6edf3;
+  --bs-navbar-hover-color: #ffffff;
+  --bs-navbar-brand-color: #ffffff;
+  --bs-navbar-brand-hover-color: #ffffff;
+  --bs-navbar-active-color: #ffffff;
+  --bs-navbar-toggler-border-color: rgba(255,255,255,.25);
+}
+.navbar .nav-link { color: var(--bs-navbar-color) !important; }
+.navbar .nav-link:hover { color: var(--bs-navbar-hover-color) !important; }
+.navbar .navbar-brand { color: var(--bs-navbar-brand-color) !important; }
+.navbar .navbar-brand:hover { color: var(--bs-navbar-brand-hover-color) !important; }
+/* make the hamburger icon visible on dark bg */
+.navbar .navbar-toggler-icon { filter: invert(1) grayscale(1) brightness(2); }
+
+/* Spacing compensation so fixed navbar doesn't cover content */
+:root { --nav-height: 64px; }
+body { scroll-padding-top: var(--nav-height); }
+body > main, main.content, .page-columns { padding-top: .5rem; }
