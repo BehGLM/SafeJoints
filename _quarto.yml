@@ -5,20 +5,25 @@ project:
 website:
   title: "SafeJOINTs"
   navbar:
-    logo: img/logo.png         # <— optional, add your logo file here
+    title: false
+    logo: images/University_of_Essex_logo.svg.png 
     left:
       - href: index.qmd#about-the-project
         text: Home
       - href: about.qmd
         text: About the Team
-      - href: contact.html     # <— links to the rendered page, not raw .qmd
+      - href: publications.qmd
+        text: Publications
+      - href: breakingnews.qmd
+        text: Breaking News
+      - href: resources.qmd
+        text: Resources
+      - href: contact.html
         text: Contact
-  favicon: img/favicon.ico     # <— optional
-
-
+  favicon: img/favicon.ico
 
 format:
   html:
     theme: cosmo
     toc: true
-    css: styles.css            # <— optional custom styles
+    css: styles.css

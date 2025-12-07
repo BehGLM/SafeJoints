@@ -1,12 +1,24 @@
 ---
-title: "SafeJOINTs: Making High-Impact Activities Safer After Hip & Knee Replacement"
-subtitle: "Biomechanics, musculoskeletal & finite element wear modelling to guide safe return to sport"
-title-block-banner: "#0d6efd"
-title-block-style: default
+title: "SafeJOINTs"
+title-block-style: none
+resources:
+  - images/Running-background.png
+  - images/Safejoints-proposal-infog.png
 ---
 
-\
+::::: {.column-screen .custom-banner}
+:::: banner-content
+<img src="images/knee-hip-rep.png" alt="Hip and Knee Replacement Illustration" class="banner-logo"/>
 
+::: banner-text
+<h1>SafeJOINTs: Informing Safety Guidelines After Hip & Knee Replacement</h1>
+
+<p>Biomechanics, musculoskeletal & finite element wear modelling to guide safe return to sport</p>
+:::
+::::
+:::::
+
+::: {.column-page .hero-section}
 ## About the project {#about-the-project}
 
 SafeJOINTs is a research programme to guide a safe return to high-impact activities (e.g., running, tennis) after total hip and knee replacement. In the UK, \~100,000 hip and \~108,000 knee replacements were performed in 2019; primary procedures cost the NHS close to £1 billion each annually. High-impact activities are often discouraged, yet existing studies mainly track surgical revision rates and overlook the biomechanical mechanisms, activity volume, and movement technique that drive bone/implant loading. Computational modelling is ideally suited to fill these gaps.
@@ -14,5 +26,12 @@ SafeJOINTs is a research programme to guide a safe return to high-impact activit
 ### Why it matters
 
 -   Provide clinician-friendly guidance on which activities and techniques are safest after hip/knee replacement.
--   Deliver open-access datasets/models to advance pre-clinical testing (beyond simplified ISO load profiles) and improve predictions of implant wear and bone loading in everyday and sport contexts.
 -   Help patients and clinicians make evidence-based decisions that maximise quality of life without compromising implant longevity.
+-   Deliver open-access datasets/models to advance pre-clinical testing (beyond simplified ISO load profiles) and improve predictions of implant wear and bone loading in everyday and sport contexts.
+:::
+
+<br>
+
+![](images/Safejoints-proposal-infog.png){.column-page fig-align="center" width="100%"}
+
+{{< include _disclaimer.qmd >}}

@@ -5,5 +5,9 @@ format:
     toc: false
 ---
 
+::: contact-block
 **Name:** Dr Bernard Liew\
-**Email:** [BL19622\@essex.ac.uk](mailto:BL19622@essex.ac.uk){.email}
+**Email:** [bl19622\@essex.ac.uk](mailto:BL19622@essex.ac.uk){.email}
+:::
+
+{{< include _disclaimer.qmd >}}

@@ -1,0 +1,14 @@
+Here is a list of our research outputs related to the SafeJOINTs project.
+
+## Journal Articles
+
+* **Coming soon...**
+
+## Conference Presentations
+
+* **Coming soon...**
+
+## Pre-print Articles
+
+* **Coming soon...**
+{{< include _disclaimer.qmd >}}

@@ -4,9 +4,12 @@ title-block-banner: "#0d6efd"
 page-layout: full
 ---
 
-::::::::: team-grid
-::: team-card
-![Dr Bernard Liew](images/bernard-liew.jpg){.team-photo} **Dr Bernard Liew, University of Essex (UoE)**
+::::::::::::::: team-grid
+:::: team-card
+![](images/bernard-liew.jpg){.team-photo}
+
+::: team-info
+**Dr Bernard Liew, University of Essex (UoE)**
 
 <p class="team-role">
 
@@ -20,9 +23,13 @@ Dr Bernard Liew is a Lecturer in Biomechanics in the School of Sport, Rehabilita
 
 </p>
 :::
+::::
 
-::: team-card
-![Dr Leiming Gao](images/leiming-gao.jpg){.team-photo} **Dr Leiming Gao, Nottingham Trent University (NTU)**
+:::: team-card
+![](images/leiming-gao.jpg){.team-photo}
+
+::: team-info
+**Dr Leiming Gao, Nottingham Trent University (NTU)**
 
 <p class="team-role">
 
@@ -36,9 +43,13 @@ Dr Leiming Gao is a Senior Lecturer in Biomedical Engineering. Leiming’s exper
 
 </p>
 :::
+::::
 
-::: team-card
-![Dr Stephen McDonnell](images/stephen-mcdonnell.jpg){.team-photo} **Dr Stephen McDonnell, University of Cambridge, Addenbrooke’s Hospital**
+:::: team-card
+![](images/stephen-mcdonnell.jpg){.team-photo}
+
+::: team-info
+**Dr Stephen McDonnell, University of Cambridge, Addenbrooke’s Hospital**
 
 <p class="team-role">
 
@@ -52,9 +63,13 @@ Dr Stephen McDonnell is an Associate Professor, as well as Consultant Orthopaedi
 
 </p>
 :::
+::::
 
-::: team-card
-![Professor Nelson Cortes](images/nelson-cortes.jpg){.team-photo} **Professor Nelson Cortes, University of Essex (UoE)**
+:::: team-card
+![](images/nelson-cortes.jpg){.team-photo}
+
+::: team-info
+**Professor Nelson Cortes, University of Essex (UoE)**
 
 <p class="team-role">
 
@@ -68,9 +83,13 @@ Professor Nelson Cortes is a Professor in Biomechanics at SRES, with expertise i
 
 </p>
 :::
+::::
 
-::: team-card
-![Dr Wenxing Guo](images/wenxing-guo.jpg){.team-photo} **Dr Wenxing Guo, University of Essex (UoE)**
+:::: team-card
+![](images/wenxing-guo.jpg){.team-photo}
+
+::: team-info
+**Dr Wenxing Guo, University of Essex (UoE)**
 
 <p class="team-role">
 
@@ -84,9 +103,13 @@ Dr Wenxing Guo is a Lecturer in Statistics and Data Science at SMSAS, with exper
 
 </p>
 :::
+::::
 
-::: team-card
-![Professor Stefan Maas](images/stefan-maas.jpg){.team-photo} **Professor Stefan Maas, Université du Luxembourg**
+:::: team-card
+![](images/stefan-maas.jpg){.team-photo}
+
+::: team-info
+**Professor Stefan Maas, Université du Luxembourg**
 
 <p class="team-role">
 
@@ -100,4 +123,79 @@ Professor Stefan Maas is a full professor at the Department of Engineering (DoE)
 
 </p>
 :::
-:::::::::
+::::
+:::::::::::::::
+
+::: postdoc-heading
+Post-doc Researchers
+:::
+
+::::: team-grid
+:::: team-card
+![](images/Ahmed-Soliman.jpg){.team-photo}
+
+::: team-info
+**Dr Ahmed Soliman, University of Luxembourg**
+
+<p class="team-role">
+
+**Postdoctoral Researcher, Department of Engineering, Faculty of Science, Technology and Medicine**
+
+</p>
+
+<p class="team-bio">
+
+Dr Ahmed Soliman is a postdoctoral researcher at the Department of Engineering, Faculty of Science, Technology and Medicine at the University of Luxembourg.
+
+</p>
+:::
+::::
+:::::
+
+::: postdoc-heading
+Collaborators
+:::
+
+::::::: team-grid
+:::: team-card
+![](images/Zainab-Altai.jpg){.team-photo}
+
+::: team-info
+**Dr Zainab Altai, University of Essex (UoE)**
+
+<p class="team-role">
+
+**Research Fellow (IPHW) in Biomechanics, School of Sport, Rehabilitation and Exercise Sciences**
+
+</p>
+
+<p class="team-bio">
+
+Dr Zainab Altai develops computational models of the human musculoskeletal system, combining motion capture, musculoskeletal and finite element modelling, wearable sensors, and machine learning.
+
+</p>
+:::
+::::
+
+:::: team-card
+![](images/Alican-Alpkaya.jpeg){.team-photo}
+
+::: team-info
+**Dr Alican Tuncay Alpkaya, Kırklareli University**
+
+<p class="team-role">
+
+**Assistant Professor in Mechanical Engineering Department**
+
+</p>
+
+<p class="team-bio">
+
+Dr Alican Tuncay Alpkaya specialises in the finite element method, solid mechanics, wear, and material modelling.
+
+</p>
+:::
+::::
+:::::::
+
+{{< include _disclaimer.qmd >}}
