@@ -12,10 +12,10 @@ website:
         text: Home
       - href: about.qmd
         text: About the Team
-      - href: publications.qmd
-        text: Publications
       - href: breakingnews.qmd
         text: Breaking News
+      - href: publications.qmd
+        text: Publications
       - href: resources.qmd
         text: Resources
       - href: contact.html
