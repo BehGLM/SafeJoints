@@ -2,7 +2,7 @@
 title: "SafeJOINTs"
 title-block-style: none
 resources:
-  - images/Running-background.png
+  - images/Running-background.jpg
   - images/Safejoints-proposal-infog.png
 ---
 
