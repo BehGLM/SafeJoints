@@ -1,6 +1,15 @@
 ---
 title: "Early News"
+page-layout: full
 ---
-
+## Conference Presentations
 * **Coming soon...**
+
+## Pre-print Articles
+* **Coming soon...**
+
+
+
+
+
 {{< include _disclaimer.qmd >}}

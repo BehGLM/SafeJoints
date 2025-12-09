@@ -1,8 +1,16 @@
 ---
 title: "Resources"
+page-layout: full
 ---
 
 Here you will find open-access datasets, models, and code related to the SafeJOINTs project.
 
 * **Coming soon...**
+
+
+
+
+
+
+
 {{< include _disclaimer.qmd >}}

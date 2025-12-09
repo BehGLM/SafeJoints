@@ -154,7 +154,11 @@ table, .table, .table caption, figcaption {
 /* Spacing compensation so fixed navbar doesn't cover content */
 :root { --nav-height: 64px; }
 body { scroll-padding-top: var(--nav-height); }
-body > main, main.content, .page-columns { padding-top: .2rem; }
+body > main, main.content, .page-columns {
+  padding-top: .2rem;
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
 /* === Force Header Text to be White === */
 .quarto-title-banner {
   color: #ffffff !important;
@@ -235,20 +239,28 @@ body > main, main.content, .page-columns { padding-top: .2rem; }
   background-color: #1e4272;     /* Dark Navy */
   color: #ffffff;                /* White text */
   
-  /* FIX 1: Reduced Height */
-  /* Changed top/bottom padding from 3rem to 1.5rem */
-  padding: 1.5rem 2rem;            
-  
+  padding: 1.5rem 2rem;
   margin-top: 3rem;              /* Space above the banner */
-  
-  /* FIX 2: Remove White Space Below */
-  /* Negative margin pulls the banner down to cover the parent container's padding */
-  margin-bottom: -3rem;          
-  
-  text-align: justify;           
-  font-size: 0.9rem;             
+  margin-bottom: -5rem !important;
+  /*  Make the banner full-width across the page */
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+
+  text-align: justify;
+  font-size: 0.9rem;
   line-height: 1.5;
+  }
+
+@media (max-width: 768px) {
+  .disclaimer-banner {
+    padding: 1.5rem 1rem;  /* Slightly smaller padding on phones */
+  }
 }
+
 
 .disclaimer-banner strong {
   display: block;
@@ -366,4 +378,14 @@ main.content, .page-columns {
   .navbar-nav .nav-item:last-child::after {
     display: none;
   }
+}
+/* === Footer Styling (The Bottom Bar) === */
+footer.footer {
+  margin-top: 0 !important;                    /* Removes the gap above */
+  margin-bottom: 0rem !important;                 /* Removes gap below */
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0b1f3a;                   /* Dark Navy Background */
+  color: #ffffff;                              /* White text */
+  border-top: 2px solid #ffffff; /* The Narrow White Line */
 }

@@ -18,9 +18,17 @@ website:
         text: Publications
       - href: resources.qmd
         text: Resources
-      - href: contact.html
+      - href: contact.qmd # Changed from .html to .qmd for consistency
         text: Contact
   favicon: img/favicon.ico
+  
+  # === NEW SECTION: GLOBAL FOOTER ===
+  page-footer:
+    background: "#0b1f3a" # Matches your dark navy navbar
+    foreground: "#ffffff" # White text
+    center: |
+      &copy; 2025 SafeJOINTs. All rights reserved.<br>
+      University of Essex | Funded by Innovate UK
 
 format:
   html:
