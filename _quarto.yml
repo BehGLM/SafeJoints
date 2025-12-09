@@ -18,7 +18,7 @@ website:
         text: Publications
       - href: resources.qmd
         text: Resources
-      - href: contact.qmd # Changed from .html to .qmd for consistency
+      - href: contact.qmd
         text: Contact
   favicon: img/favicon.ico
   
@@ -28,7 +28,7 @@ website:
     foreground: "#ffffff" # White text
     center: |
       &copy; 2025 SafeJOINTs. All rights reserved.<br>
-      University of Essex | Funded by Innovate UK
+      University of Essex & University of Luxembourg | Funded by Medical Research Council & FNR - Luxembourg National Research Fund
 
 format:
   html:
