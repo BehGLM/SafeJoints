@@ -86,7 +86,7 @@ Professor Nelson Cortes is a Professor in Biomechanics at SRES, with expertise i
 ::::
 
 :::: team-card
-![](images/wenxing-guo.png){.team-photo}
+![](images/wenxing-guo.png){.team-photo width="1024"}
 
 ::: team-info
 **Dr Wenxing Guo, University of Essex (UoE)**
