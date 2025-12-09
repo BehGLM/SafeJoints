@@ -132,7 +132,7 @@ Post-doc Researchers
 
 ::::: team-grid
 :::: team-card
-![](images/Ahmed-Soliman.jpg){.team-photo}
+![](images/Ahmed-Soliman.png){.team-photo}
 
 ::: team-info
 **Dr Ahmed Soliman, University of Luxembourg**
@@ -145,7 +145,7 @@ Post-doc Researchers
 
 <p class="team-bio">
 
-Dr Ahmed Soliman is a postdoctoral researcher at the Department of Engineering, Faculty of Science, Technology and Medicine at the University of Luxembourg.
+Dr. Ahmed Soliman is a postdoctoral researcher in the Department of Engineering at the University of Luxembourg working on the biomechanics and orthopaedic engineering of lower limb trauma and joint replacement. He specialises in motion analysis, musculoskeletal and numerical modelling, and personalised implant design using 3D printing, with a particular interest in improving the performance and longevity of orthopaedic implants.
 
 </p>
 :::
