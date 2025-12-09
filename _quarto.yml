@@ -12,8 +12,8 @@ website:
         text: Home
       - href: about.qmd
         text: About the Team
-      - href: breakingnews.qmd
-        text: Breaking News
+      - href: earlynews.qmd       
+        text: Early News          
       - href: publications.qmd
         text: Publications
       - href: resources.qmd
