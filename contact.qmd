@@ -1,13 +1,18 @@
 ---
 title: "Contact"
+page-layout: full
 format:
   html:
     toc: false
 ---
 
+:::: {style="display: flex; align-items: center; gap: 2rem; margin-top: 2rem;"}
+![](images/bernard-liew.jpg){width="250px" style="border-radius: 1rem; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+
 ::: contact-block
 **Name:** Dr Bernard Liew\
 **Email:** [bl19622\@essex.ac.uk](mailto:BL19622@essex.ac.uk){.email}
 :::
+::::
 
 {{< include _disclaimer.qmd >}}
