@@ -203,7 +203,7 @@ body > main, main.content, .page-columns { padding-top: .2rem; }
 
 .hero-section::before {
   content: "";
-  background-image: url('images/Running-background.png');
+  background-image: url('images/Running-background.jpg');
   
   /* CHANGED: 'contain' ensures the whole image is visible with correct proportions */
   background-size: contain; 
