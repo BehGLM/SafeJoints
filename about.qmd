@@ -149,7 +149,7 @@ Post-doc Researchers
 
 <p class="team-bio">
 
-Dr. Ahmed Soliman is a postdoctoral researcher in the Department of Engineering at the University of Luxembourg working on the biomechanics and orthopaedic engineering of lower limb trauma and joint replacement. He specialises in motion analysis, musculoskeletal and numerical modelling, and personalised implant design using 3D printing, with a particular interest in improving the performance and longevity of orthopaedic implants.
+Dr. Ahmed Soliman specialises in biomechanics and orthopaedic engineering, with a focus on lower limb trauma and joint replacement. His expertise includes motion analysis, musculoskeletal simulation, numerical and experimental assessment of traumatic bone injuries and related orthopaedic devices, as well as the development of personalised 3D-printed implants. His current research focuses on improving the performance and longevity of orthopaedic implants.
 
 </p>
 :::
@@ -215,7 +215,7 @@ Dr Alican Tuncay Alpkaya specialises in the finite element method, solid mechani
 
 <p class="team-bio">
 
-Behnam Gholami is a PhD researcher in biomechanics and computer vision at the University of Essex, with a background in biomedical and mechanical engineering and expertise in solid mechanics and smart material modelling.
+Behnam Gholami is a doctoral researcher in Biomechanics and Computer Vision at the University of Essex. He leverages a strong foundation in biomedical and mechanical engineering to advance research in human pose estimation and machine learning. In addition to his work in AI deployment and data curation, he possesses advanced technical proficiency in vibration and control, solid mechanics, and the modeling of smart materials.
 
 </p>
 :::
