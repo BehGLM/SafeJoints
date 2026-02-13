@@ -5,7 +5,14 @@ page-layout: full
 
 Here you will find open-access datasets, models, and code related to the SafeJOINTs project.
 
-* **Coming soon...**
+## Infographics
+
+1. Title: <em>Movement Quality in Sports after a Joint Replacement!</em>  
+    <a href="images/Safejoints-Paper-1-Infographic.jpg" class="lightbox"><img src="images/Safejoints-Paper-1-Infographic.jpg" class="poster-thumb" alt="Movement Quality in Sports after a Joint Replacement! – infographic thumbnail"></a>
+
+
+
+
 
 
 
