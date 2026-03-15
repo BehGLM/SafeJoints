@@ -19,7 +19,9 @@ page-layout: full
 ## Pre-print Articles
 
 1. Title: <a href="files/pre_print_2026_1.pdf" download="pre_print_2026_1.pdf"><em>Altered lower-limb kinematics and joint moments during high-impact tasks after hip and knee arthroplasties</em></a>  
-   **Poster:** <a href="images/Safejoints-Paper-1-Infographic.jpg" class="lightbox"><img src="images/Safejoints-Paper-1-Infographic.jpg" class="poster-thumb" alt="SafeJOINTs Paper 1 infographic thumbnail"></a>
+
+2. Title: <a href="files/pre_print_2026_2.pdf" download="pre_print_2026_2.pdf"><em>Ranking hip and knee joint contact forces during high-impact activities in high-functioning adults after hip or knee arthroplasty</em></a>  
+
 
 
 
