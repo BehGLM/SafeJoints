@@ -13,7 +13,9 @@ page-layout: full
 1. Title: <a href="files/BHS_Abstract.docx" download="BHS_Abstract.docx"><em>Ranking implant loading during high-impact exercises in people with total hip replacements</em></a>  
    **Poster:** <a href="images/BHS_Abstract.png" class="lightbox"><img src="images/BHS_Abstract.png" class="poster-thumb" alt="BHS poster thumbnail"></a>
 
-2. Title: <a href="files/BHS Abstract_wear_Analysis.docx" download="BHS Abstract_wear_Analysis.docx"><em>Wear analysis of total hip replacements under subject-specific walking and running conditions using finite element simulations</em></a>
+2. Title: <a href="files/BHS Abstract_wear_Analysis.docx" download="BHS Abstract_wear_Analysis.docx"><em>Wear analysis of total hip replacements under subject-specific walking and running conditions using finite element simulations</em></a>  
+   **Presentation:** <a href="files/BHS26_PPT.pdf" download="BHS26_PPT.pdf">Conference Presentation File</a>  
+   <a href="images/First_page_Presenteation_BHS_2026.png" class="lightbox"><img src="images/First_page_Presenteation_BHS_2026.png" class="poster-thumb" alt="BHS presentation thumbnail"></a>
 
 
 ## Pre-print Articles
