@@ -4,6 +4,20 @@ page-layout: full
 ---
 ## Conference Presentations
 
+::: {.conference-header}
+![](images/WCB2026_logo.png){.conference-logo .wcb-logo fig-alt="10th World Congress of Biomechanics (WCB 2026) logo"}
+
+### 10th World Congress of Biomechanics (WCB 2026)
+:::
+
+1. Title: <a href="files/WCB2026_Poster.png" class="lightbox"><em>Total Hip Arthroplasty Loading Library: In Silico Joint and Muscle Forces for 21 Functional and High-Impact Tasks</em></a>  
+   **Poster:** <a href="files/WCB2026_Poster.png" class="lightbox"><img src="files/WCB2026_Poster.png" class="poster-thumb" alt="WCB 2026 poster thumbnail"></a>
+
+2. Title: <a href="files/WCB2026_PPT.pdf" download="WCB2026_PPT.pdf"><em>WEAR ANALYSIS OF TOTAL HIP ARTHROPLASTY</em></a>  
+   **Presentation:** <a href="files/WCB2026_PPT.pdf" download="WCB2026_PPT.pdf">Conference Presentation File</a>  
+   <a href="files/WCB2026_PPT_first_page.png" class="lightbox"><img src="files/WCB2026_PPT_first_page.png" class="poster-thumb" alt="WCB 2026 presentation thumbnail"></a>
+
+
 ::: {.bhs-header}
 ![](images/BHS_logo.png){.bhs-logo fig-alt="British Hip Society (BHS) logo"}
 

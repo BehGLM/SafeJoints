@@ -404,7 +404,8 @@ footer.footer {
 .poster-thumb:hover {
   transform: scale(1.05); /* Slightly more noticeable hover on a smaller target */
 }
-/* === Early News: BHS header (logo left of title) === */
+/* === Early News: Conference header (logo left of title) === */
+.conference-header,
 .bhs-header {
   display: flex;            /* force logo + title on one line */
   flex-direction: row;
@@ -417,24 +418,28 @@ footer.footer {
 
 /* Mobile: allow stacking if needed */
 @media (max-width: 768px) {
+  .conference-header,
   .bhs-header {
     flex-wrap: wrap;
   }
 }
 
-
 /* Remove default figure spacing inside the logo column */
+.conference-header figure,
+.conference-header p,
 .bhs-header figure,
 .bhs-header p {
   margin: 0;
 }
 
+.conference-header .column,
 .bhs-header .column {
   display: flex;
   align-items: center;
 }
 
-/* Keep the BHS logo small (no poster-style magnification) */
+/* Keep conference logos small and aligned with the title */
+.conference-logo,
 .bhs-logo {
   width: 90px;
   max-width: 90px;
@@ -445,7 +450,13 @@ footer.footer {
   flex: 0 0 auto;
 }
 
+/* WCB logo has more internal text, so it needs slightly more width */
+.wcb-logo {
+  width: 120px;
+  max-width: 120px;
+}
+
+.conference-header h3,
 .bhs-header h3 {
   margin: 0;
 }
-
